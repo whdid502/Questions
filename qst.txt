@@ -26,3 +26,4 @@
 
 6. cp name1 path #d이름1  이게 잘안됩니다
 
+7. cat 과 echo 의 차이점
